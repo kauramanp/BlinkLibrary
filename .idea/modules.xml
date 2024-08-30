@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibraryProject.iml" filepath="$PROJECT_DIR$/.idea/modules/LibraryProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlinkLibrary/LibraryProject.BlinkLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/BlinkLibrary/LibraryProject.BlinkLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlinkLibrary/LibraryProject.BlinkLibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/BlinkLibrary/LibraryProject.BlinkLibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlinkLibrary/LibraryProject.BlinkLibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BlinkLibrary/LibraryProject.BlinkLibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlinkLibrary/LibraryProject.BlinkLibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/BlinkLibrary/LibraryProject.BlinkLibrary.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LibraryProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LibraryProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LibraryProject.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LibraryProject.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LibraryProject.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LibraryProject.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LibraryProject.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LibraryProject.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
